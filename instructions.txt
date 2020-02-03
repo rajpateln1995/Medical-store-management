@@ -1,0 +1,4 @@
+Import the Database file on your system with mySQl workbench.
+Make necessary changes according to your workbench settings in list.java file
+
+ready to rock..!!!
